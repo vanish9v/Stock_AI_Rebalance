@@ -1,0 +1,23 @@
+# Secrets
+.env
+.env.local
+*.env
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Cache
+rebalance_cache/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
